@@ -1,10 +1,10 @@
 ---
-title: Tempus Etiam
+title: SUPER BADA$$ SITE
 img_src: images/pic13.jpg
 template: page
 menus:
   main:
-    title: Tempus etiam
+    title: SUPER BAD$$$$$$$$ SITE
     weight: 3
 ---
 
