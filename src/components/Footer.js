@@ -8,6 +8,7 @@ export default class Footer extends React.Component {
     render() {
         return (
             <footer id="footer">
+            <p>Matt was here.</p>
                 <div className="inner">
                     {_.get(this.props, 'pageContext.site.siteMetadata.contact.enabled') && 
                         <Contact {...this.props} />
